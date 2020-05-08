@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReformatSelfConfiguredDIP": {
+      "commandName": "Project",
+      "commandLineArgs": "H:\\CB\\Roselle_COLD_Samples"
+    }
+  }
+}
